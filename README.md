@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href=" Web design landing page mini project 1 (enhancement)">
-    <img src="https://media.giphy.com/media/Jh2c2M4Q9A4FRvYrEF/giphy.gif" alt="Logo" width="880" height="730">
+    <img src="https://media.giphy.com/media/Jh2c2M4Q9A4FRvYrEF/giphy.gif" alt="Logo" width="500" height="430">
   </a>
 
   <h3 align="center">Web design landing page mini project 1</h3>
