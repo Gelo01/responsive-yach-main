@@ -33,7 +33,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="https://gelo01.github.io/responsive-yach-main/">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -63,6 +63,7 @@ Here are the major frameworks that you built your project using. Here are a few 
 ## Getting Started
 
 This project is about responsive layout about yatch rental and how to properly apply some css responsive to all devices
+Here is the link  of the webpage <li><a href="https://gelo01.github.io/responsive-yach-main/">Click me!</a></li>
 
 ### Prerequisites
 
